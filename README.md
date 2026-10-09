@@ -1,2 +1,2 @@
 Welcome to Enchantment!
-Enchantment is a encrypted 
+Enchantment is a encrypted chat im working on
